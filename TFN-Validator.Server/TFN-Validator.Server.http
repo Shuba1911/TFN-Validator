@@ -1,0 +1,6 @@
+@TFN_Validator.Server_HostAddress = http://localhost:5007
+
+GET {{TFN_Validator.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
